@@ -1,4 +1,4 @@
-package me.giverplay.slugdown4j;
+package slugdown4j;
 
 public final class Slugdown {
 

@@ -1,8 +1,8 @@
 import org.junit.jupiter.api.Test;
 
-import static me.giverplay.slugdown4j.Slugdown.setSlugdownTime;
-import static me.giverplay.slugdown4j.Slugdown.getSlugdownTime;
-import static me.giverplay.slugdown4j.Slugdown.slugdown;
+import static slugdown4j.Slugdown.setSlugdownTime;
+import static slugdown4j.Slugdown.getSlugdownTime;
+import static slugdown4j.Slugdown.slugdown;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

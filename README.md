@@ -19,7 +19,7 @@ Common and very very very bad usage of Slugdown4j
 
 ```java
 // Importing
-import me.giverplay.slugdown4j.Slugdown;
+import slugdown4j.Slugdown;
 
 // Set slugdown time
 Slugdown.setSlugdownTime(250); // Time is millis
@@ -36,9 +36,9 @@ Official Slugdown4j usage
 
 ```java
 // Importing
-import static me.giverplay.slugdown4j.Slugdown.getSlugdownTime;
-import static me.giverplay.slugdown4j.Slugdown.setSlugdownTime;
-import static me.giverplay.slugdown4j.Slugdown.slugdown;
+import static slugdown4j.Slugdown.getSlugdownTime;
+import static slugdown4j.Slugdown.setSlugdownTime;
+import static slugdown4j.Slugdown.slugdown;
 
 // Like a giga
 setSlugdownTime(250);
